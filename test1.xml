@@ -1,0 +1,18 @@
+{
+        "components": {
+        "sass": [
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/list/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/page/dataCapturePage/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/page/genericContentTwoColumn2575Page/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/adaptiveImageComponent/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/authenticationLayout/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/brightcovePlayer/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/column/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/contentTile/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/cookiePolicyChanger/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/dynamicVideo/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/expandableContent/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/expandableContentContainer/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/footer/clientlibs/sass/*.scss",
+        "common-content/src/main/content/jcr_root/apps/bose/common/components/geolocation/clientlibs/sass/*.scss",
+}
